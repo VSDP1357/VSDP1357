@@ -1,8 +1,8 @@
 # 👋 Hi, I'm @VSDP1357
 
 ## About Me
-- 🔭 I’m interested in VLSI, Verilog, systemverilog, UVM.
-- 🌱 I’m currently learning advanced Verilog techniques and design methodologies.
+- 🔭 I’m interested in VLSI: Verilog, systemverilog, UVM.
+- 🌱 I’m currently learning advanced Verilog and System Verilog techniques and design methodologies.
 - 👯 I’m looking to collaborate on Verilog projects, particularly those involving simulation and hardware design.
 - 📫 How to reach me: [vsaidurgapradeep2003@gmail.com , https://www.linkedin.com/in/sai-durga-pradeep-veeramalla-303224241]
 - 😄 Pronouns: [Sai Durga Pradeep Veeramalla]
@@ -10,7 +10,7 @@
 
 ## Skills
 - **Programming Languages:** Verilog, SystemVerilog, C, Python. 
-- **Tools:** VS Code, modelsim
+- **Tools:** VS Code, modelsim, xilinx
 - **Areas of Expertise:** Hardware simulation, Digital design, FPGA development. 
 
 ## Current Projects
